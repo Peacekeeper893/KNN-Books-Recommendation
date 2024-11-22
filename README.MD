@@ -12,6 +12,8 @@ This project implements a K-Nearest Neighbors (KNN) based recommendation system 
 - `test.ipynb`: Jupyter notebook for testing the recommendation system.
 - `train.ipynb`: Jupyter notebook for training the recommendation system.
 
+*The dataset can be found [here](https://drive.google.com/drive/folders/1qo-uUPkys5z-6KKF4cyZ1QRXDieQmvkX?usp=sharing)*
+
 ## Setup
 
 1. Clone the repository.
